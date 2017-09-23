@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "FileFlattener": {
-      "commandName": "Project",
-      "commandLineArgs": "\"Y:\\\\Backups\\\\DeejIphone\\\\20170923\" \"Y:\\\\Backups\\\\DeejIphone\\\\20170923\\\\Images\""
-    }
-  }
-}
